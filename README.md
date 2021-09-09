@@ -30,3 +30,8 @@ Las Vegas is an internationally renowned major **resort city**, known primarily 
   <td>$0.96</td></tr>
 </table>
 </hr>
+<hr><h5>Quotes</h5>
+<blockquote><q>If life were predictable it would cease to be life, and be without flavor -<i>Eleanor Roosevelt </i></q><br>
+<q>The greatest glory in living lies not in never falling, but in rising every time we fall -<i> Nelson Mandela</i></q>
+</blockquote >
+</hr>
